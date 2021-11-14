@@ -18,9 +18,14 @@ The first difficulty I encountered was with creating the Outcomes "Based on Goal
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+- - The best time to launch a kickstarter campaign for a play is Q2, around May or June. These are the months with the hightest number of successful campaigns. 
+- - It is not a good idea to launch a campaign in October, since more campaigns failed when they were launched during this month.  It may be due to the upcoming holiday season
 
 - What can you conclude about the Outcomes based on Goals?
+- -She should keep her campaign goal under $5,000 to increase the likelihood of having a successful campaign.  A good percentage of successful kickstarters for plays were less than $5,000.
 
 - What are some limitations of this dataset?
+- -This dataset only captures fundraising on one platform (Kickstarter). There are other online fundraising sites that are not included, like GoFundMe, etc.  There are also many fundraisers that may be done strictly in-person and not online at all.  The data from those campaigns would not be captured in this dataset.
 
 - What are some other possible tables and/or graphs that we could create?
+- -We could look at the duration of the campaign to see how the length of time influenced the outcome, using a line chart.  We could also create a table to examine how the number of backers a campaign had helped or prevented it from meeting its goal.
